@@ -17,8 +17,6 @@ The file structure of this project is organized as follows:
 
 To use this project, clone the repository and navigate to the `zkl-token` directory. Then, run `npm install` to install the required dependencies. Finally, run `npm test` to run the tests for the smart contracts.
 
-Note that this is an experimental project, and the code is subject to change at any time. Please use it with caution and keep an eye on updates.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
